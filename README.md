@@ -1,9 +1,12 @@
 <div align="center">
   <img height="220" src="https://i.gifer.com/origin/bb/bb5cb8e2e56593e0c84c31d5c54c1abf_w200.gif"  />
-</div>
-
-###
-
+</div><br>
+ 
+ <div align="center">
+   <img src="https://visitor-badge.laobi.icu/badge?page_id=DavidOvMu23.DavidOvMu23"  />
+ </div>
+ 
+ ###
 <!-- Links-->
 <div align="center">
   <!--<a href="https://www.youtube.com/@StarLord5-4"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  /></a>-->
@@ -15,8 +18,7 @@
 
 ###
 
-<h1 align="center">hey there👋</h1>
-<h2 align="center">This account is dedicated to the development of LaTribuRP, but I'll tell you a little about myself: </h2>
+<h1 align="center">hey there 👋</h1>
 
 ###
 
@@ -24,8 +26,8 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
-<h3>My main github account: <a href="https://github.com/DavidOvMu23">https://github.com/DavidOvMu23</a></h3>
-<p align="left">I'm David<br><br>- 🔭 I'm studying DAM (Multi-platform application development).<br>- 📚 I'm currently learning python<br>- ⚡ En mi tiempo libre escucho música, juego a videojuegos y soy DJ. </p>
+
+<p align="left">I'm David<br><br>- 🔭 I'm studying DAM (Multi-platform application development).<br>- 📚 I'm currently learning python<br>- ⚡ In my free time I listen to music, play video games and DJ. </p>
 
 ###
 
